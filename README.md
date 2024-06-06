@@ -1,5 +1,4 @@
 # Automated-Attendance-system
-# End-to-end-Object-Detection-Project
 
 
 ## How to run:
